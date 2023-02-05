@@ -1,0 +1,37 @@
+body {
+  background-color: navy;
+}
+
+h1 {
+  color: white; 
+  font-size:24px;
+  font-family: Aria, Helvetica; 
+  
+}
+
+.header {
+  background-color:black;
+  padding-left:10px;
+  margin-left: 10px;
+  border: 1px solid black; 
+}
+
+p, li {
+  color: white;
+  font-family: Arial
+}
+
+img {
+  width:50%;
+}
+
+.footer {
+  background: black;
+color: white;
+border: 1px solid black;
+padding-left: 10px;
+}
+
+div {
+  border: 1px solid black;
+}
